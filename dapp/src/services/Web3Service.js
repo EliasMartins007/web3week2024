@@ -1,7 +1,7 @@
 import Web3 from "web3";
 import ABI from "./ABI.json";
 
-const CONTRACT_ADDRESS = "0xE9956c971B72aD74F249E616828df613F03E858b";
+const CONTRACT_ADDRESS = "0xde930bFB9767D7BAbc8Ac5743015970930911E3A"//"0xE9956c971B72aD74F249E616828df613F03E858b";
 
 export async function doLogin() {
 
